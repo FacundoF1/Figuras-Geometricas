@@ -1,20 +1,20 @@
-# Title: EJERCICIO FIGURAS GEOMÉTRICAS
+# EJERCICIO FIGURAS GEOMÉTRICAS
 
 	- Ejercicio modelado de clases: Figuras Geométricas, herencia polimorfismo interfaz con  
 	elección de métodos, que permite la obtención de información de los datos de las figuras: 
 	base, altura, superficie, diámetro y tipo de figura.  	 
 
-# Tools
+# Herramientas
 
 	- Java EE.
 	- NetBeans.
 
-## Info
+## Información
 
 	- @author: Facundo Ferrari.
 	- @date: 30-10-2017.
 
-## Sites
+## Sitios
 
 	- Descargar el proyecto de git: https://github.com/FacundoF1/Figugas-Geometricas.git
 	
@@ -22,7 +22,7 @@
 	* LinkedIn: https://www.linkedin.com/in/facundo-ferrari-543a0810a/
 	* GitHub: https://github.com/FacundoF1/
 
-### Introduction
+### Introducción
 
 	- Proyecto: Desarrollo de clases que permite la creación de objetos que representan figuras
 	geométricas (cuadrado, triangulo, cuadrado).
